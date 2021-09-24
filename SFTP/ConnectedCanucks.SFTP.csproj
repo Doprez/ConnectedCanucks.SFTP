@@ -1,15 +1,19 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageLicenseExpression></PackageLicenseExpression>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageProjectUrl />
+    <PackageProjectUrl>https://github.com/Doprez/ConnectedCanucks.SFTP</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Doprez/ConnectedCanucks.SFTP</RepositoryUrl>
     <PackageTags>SSH, SFTP, File Transfer</PackageTags>
     <NeutralLanguage>en-CA</NeutralLanguage>
     <Copyright>MIT</Copyright>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>1.0.0.1</Version>
+    <Company>ConnectedCanucks</Company>
+    <Authors>Doprez</Authors>
+    <Product>ConnectedCanucks.SFTP</Product>
   </PropertyGroup>
 
   <ItemGroup>
