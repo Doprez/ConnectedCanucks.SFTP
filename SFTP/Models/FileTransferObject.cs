@@ -1,7 +1,7 @@
 ﻿using Renci.SshNet.Sftp;
 using System.IO;
 
-namespace SFTP.Models
+namespace ConnectedCanucks.SFTP.Models
 {
     public class FileTransferObject
     {

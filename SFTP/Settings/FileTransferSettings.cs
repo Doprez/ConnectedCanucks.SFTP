@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 
-namespace SFTP.Settings
+namespace ConnectedCanucks.SFTP.Settings
 {
     [ExcludeFromCodeCoverage]
     public class FileTransferSettings

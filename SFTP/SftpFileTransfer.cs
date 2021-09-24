@@ -1,17 +1,17 @@
 ﻿using Renci.SshNet;
 using Renci.SshNet.Common;
 using Serilog;
-using SFTP.Enumerations;
-using SFTP.Interfaces;
-using SFTP.Models;
-using SFTP.Settings;
+using ConnectedCanucks.SFTP.Enumerations;
+using ConnectedCanucks.SFTP.Interfaces;
+using ConnectedCanucks.SFTP.Models;
+using ConnectedCanucks.SFTP.Settings;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SFTP.FileTransfer
+namespace ConnectedCanucksSFTP.FileTransfer
 {
     public class SftpFileTransfer : IFileTransfer
     {

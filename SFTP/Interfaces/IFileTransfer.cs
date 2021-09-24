@@ -1,9 +1,9 @@
-﻿using SFTP.Models;
+﻿using ConnectedCanucks.SFTP.Models;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace SFTP.Interfaces
+namespace ConnectedCanucks.SFTP.Interfaces
 {
     public interface IFileTransfer
     {

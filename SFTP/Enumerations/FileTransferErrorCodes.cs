@@ -1,4 +1,4 @@
-﻿namespace SFTP.Enumerations
+﻿namespace ConnectedCanucks.SFTP.Enumerations
 {
     public enum FileTransferErrorCodes
     {
