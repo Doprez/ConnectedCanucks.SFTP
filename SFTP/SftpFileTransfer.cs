@@ -128,7 +128,7 @@ namespace ConnectedCanucksSFTP.FileTransfer
             {
                 sftp.Connect();
 
-                if (!String.IsNullOrWhiteSpace(remoteDirectoryPath))
+                if (!string.IsNullOrWhiteSpace(remoteDirectoryPath))
                 {
                     sftp.ChangeDirectory(remoteDirectoryPath);
                 }
@@ -160,7 +160,7 @@ namespace ConnectedCanucksSFTP.FileTransfer
             {
                 sftp.Connect();
 
-                if (!String.IsNullOrWhiteSpace(remoteDirectoryPath))
+                if (!string.IsNullOrWhiteSpace(remoteDirectoryPath))
                 {
                     sftp.ChangeDirectory(remoteDirectoryPath);
                 }
@@ -255,7 +255,7 @@ namespace ConnectedCanucksSFTP.FileTransfer
             {
                 sftp.Connect();
 
-                if (!String.IsNullOrWhiteSpace(remoteDirectoryPath))
+                if (!string.IsNullOrWhiteSpace(remoteDirectoryPath))
                 {
                     sftp.ChangeDirectory(remoteDirectoryPath);
                 }
