@@ -10,7 +10,7 @@
     <NeutralLanguage>en-CA</NeutralLanguage>
     <Copyright>MIT</Copyright>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Version>6.0.0.0</Version>
+    <Version>6.0.1.0</Version>
     <Company>ConnectedCanucks</Company>
     <Authors>Doprez</Authors>
     <Product>ConnectedCanucks.SFTP</Product>
