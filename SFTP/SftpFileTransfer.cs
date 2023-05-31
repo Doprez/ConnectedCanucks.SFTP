@@ -1,7 +1,4 @@
 ﻿using Renci.SshNet;
-using Renci.SshNet.Common;
-using Serilog;
-using ConnectedCanucks.SFTP.Enumerations;
 using ConnectedCanucks.SFTP.Interfaces;
 using ConnectedCanucks.SFTP.Models;
 using ConnectedCanucks.SFTP.Settings;
